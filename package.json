@@ -1,0 +1,21 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "Allows users to input their expense which then stores into a database and then categorises them to be shown to the user as a graph.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentP25/expense_tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AgentP25/expense_tracker/issues"
+  },
+  "homepage": "https://github.com/AgentP25/expense_tracker#readme"
+}
